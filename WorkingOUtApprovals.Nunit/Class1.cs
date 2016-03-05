@@ -13,12 +13,11 @@ namespace WorkingOutApprovals.Nunit
     public class Class1
     {
         [Test]
-        [UseReporter(typeof(DiffReporter))]
+        [UseReporter(typeof(ClipboardReporter))]
+  //  [UseReporter(typeof(DiffReporter))]
         public void LineEndingsTest()
         {      
-           Approvals.Verify("Jee \n" +
-                            "Jaa \t" +
-                            "Juu ");
+           Approvals.Verify("Jee" + "\n"+"\t"+"r");
         }
     }
 }
