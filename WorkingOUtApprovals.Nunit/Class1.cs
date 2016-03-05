@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ApprovalTests;
+using ApprovalTests.Reporters;
 using NUnit.Framework;
 
 namespace WorkingOutApprovals.Nunit
@@ -11,8 +13,12 @@ namespace WorkingOutApprovals.Nunit
     public class Class1
     {
         [Test]
-        public void Test()
+        [UseReporter(typeof(DiffReporter))]
+        public void LineEndingsTest()
         {      
+           Approvals.Verify("Jee \n" +
+                            "Jaa \t" +
+                            "Juu ");
         }
     }
 }
