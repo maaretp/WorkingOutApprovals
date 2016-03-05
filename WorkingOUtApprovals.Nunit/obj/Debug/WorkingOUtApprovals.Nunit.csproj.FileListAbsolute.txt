@@ -1,0 +1,7 @@
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\bin\Debug\WorkingOUtApprovals.Nunit.dll
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\bin\Debug\WorkingOUtApprovals.Nunit.pdb
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\bin\Debug\nunit.framework.dll
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\bin\Debug\nunit.framework.xml
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\obj\Debug\WorkingOUtApprovals.Nunit.csprojResolveAssemblyReference.cache
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\obj\Debug\WorkingOUtApprovals.Nunit.dll
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOUtApprovals.Nunit\obj\Debug\WorkingOUtApprovals.Nunit.pdb

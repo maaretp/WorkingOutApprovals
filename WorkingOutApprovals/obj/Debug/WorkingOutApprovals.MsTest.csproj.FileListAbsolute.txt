@@ -1,0 +1,6 @@
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOutApprovals\bin\Debug\WorkingOutApprovals.dll
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOutApprovals\bin\Debug\WorkingOutApprovals.pdb
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOutApprovals\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOutApprovals\obj\Debug\WorkingOutApprovals.MsTest.csprojResolveAssemblyReference.cache
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOutApprovals\obj\Debug\WorkingOutApprovals.dll
+C:\Users\mpy\Source\Repos\WorkingOutApprovals\WorkingOutApprovals\WorkingOutApprovals\obj\Debug\WorkingOutApprovals.pdb
