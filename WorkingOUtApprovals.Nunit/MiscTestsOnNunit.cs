@@ -30,5 +30,13 @@ namespace WorkingOutApprovals.Nunit
             ApprovalTests.Approvals.VerifyXml(xml);              
         }
 
+        [Test]
+        public void RandomTest()
+        {
+            var s = Approvals.GetDefaultNamer();
+            Console.WriteLine("This is it: "+ s);
+            
+        }
+
     }
 }
